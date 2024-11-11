@@ -12,7 +12,7 @@ Sounddevice
 Opencv
 
 
-#How to start
+# How to start
 
 Main app is saved in app.py 
 You can run it by a command : python app.py
@@ -21,5 +21,5 @@ modelnew.h5 is the pre-trained model for violence detection
 
 SER was taken from HuggingFace , pipelines are in app.py and ser.py 
 
-#About 
+# About 
 
